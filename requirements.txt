@@ -1,0 +1,5 @@
+open-cv
+websocket-clint
+pandas
+scikit-learn
+pynput
